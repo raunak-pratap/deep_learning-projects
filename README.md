@@ -61,7 +61,7 @@
 
  <hr>
 
- <p><em>This project was developed as part of the <strong>Prime AI/ML batch</strong> and <strong>IIT Delhi AI/ML</strong> program.</em></p>
+ <p><em>This project was developed as part of the <strong>Prime AI/ML batch</strong>  program.</em></p>
 
 </body>
 </html>
